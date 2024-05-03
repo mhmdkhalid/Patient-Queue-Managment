@@ -1,0 +1,14 @@
+int main()
+{
+int x=9;
+int y=10;
+double w=32;
+y=90;
+w=50;
+char c='r';
+float r=3.6;
+c='t';
+r=5.2;
+double p=7.15;
+return 0;
+}
